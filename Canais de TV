@@ -1,0 +1,49 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="GLOBO INTER VALE MG HD" tvg-logo="https://i.ibb.co/TDKXW0PQ/HD.png" group-title="TV GLOBO", Globo InterTV dos Vales HD
+http://citazono.online/live/027548405/675000952/e874ae9f-e904-46d0-903d-b1f2b730ae67.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV DOS VALES FHD (BR2)" tvg-logo="https://i.ibb.co/xt1P0VPb/FHD.png" group-title="TV GLOBO", Globo Inter TV dos Vales FHD (BR2)
+http://citazono.online/live/027548405/675000952/d081ea8e-3196-41a9-a04c-c0d8923b1071.ts
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="GLOBO INTER TV DOS VALES HD (BR2)" tvg-logo="https://i.ibb.co/TDKXW0PQ/HD.png" group-title="TV GLOBO)", Globo Inter TV dos Vales HD (BR2)
+http://citazono.online/live/027548405/675000952/611617d3-baff-4c33-912a-30cffec9ed36.ts
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="Globo Minas FHD" tvg-logo="https://i.ibb.co/xt1P0VPb/FHD.png" group-title="TV GLOBO", Globo Minas FHD
+http://citazono.online/live/027548405/675000952/0e2a1dbe-b483-4f94-abb6-edb0ac55a3fb.ts
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="Globo Minas HD" tvg-logo="https://i.ibb.co/TDKXW0PQ/HD.png" group-title="TV GLOBO", Globo Minas HD
+http://citazono.online/live/027548405/675000952/53dfeb3c-6270-41b4-a631-7dce9d387713.ts
+#EXTINF:-1 tvg-id="globonews.br" tvg-name="Globo News FHD" tvg-logo="https://i.ibb.co/mT8kBPd/FHD.png" group-title="TV GLOBO", Globo News FHD
+http://citazono.online/live/027548405/675000952/ad986505-31fb-445d-a49c-8e3f38dc8d6e.ts
+#EXTINF:-1 tvg-id="" tvg-name="RECORD TV TROPICAL HD" tvg-logo="https://i.ibb.co/bNbC6Rw/HD.png" group-title="TV Record", Record TV Tropical HD
+http://citazono.online/live/027548405/675000952/885586d7-216b-4122-8798-ed335d6cb9d3.ts
+#EXTINF:-1 tvg-id="recordnews.br" tvg-name="Record News FHD" tvg-logo="https://imgur.com/7gyWZD2.jpeg" group-title="Record News", Record News FHD
+http://citazono.online/live/027548405/675000952/22e431df-2ec9-4082-9e93-315350f82cee.ts
+#EXTINF:-1 tvg-id="recordnews.br" tvg-name="RECORD NEWS FHD [H265]" tvg-logo="https://imgur.com/7gyWZD2.jpeg" group-title="Record News", Record News FHD [H265]
+http://citazono.online/live/027548405/675000952/6d4feb2d-9e5b-4eec-a2e9-f0e53067d059.ts
+#EXTINF:-1 tvg-id="recordnews.br" tvg-name="Record News HD" tvg-logo="https://i.ibb.co/C5NrwyX/HD.png" group-title="Record News", Record News HD
+http://citazono.online/live/027548405/675000952/c561ca8e-6096-41e7-975a-6f88b01c3cdb.ts
+#EXTINF:-1 tvg-id="recordnews.br" tvg-name="Record News SD" tvg-logo="https://i.ibb.co/GHM6thr/SD.png" group-title="Record News", Record News SD
+http://citazono.online/live/027548405/675000952/9bab93b8-9eaf-431e-8c83-1b07f61a94b8.ts
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND TV SP HD" tvg-logo="https://i.ibb.co/RD2DkLz/HD.png" group-title="Band TV", Band TV SP HD
+http://citazono.online/live/027548405/675000952/4d04b271-5b82-4cc0-a5c2-c69c02db27e7.ts
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND TV RJ HD" tvg-logo="https://i.ibb.co/RD2DkLz/HD.png" group-title="Band TV", Band TV RJ HD
+http://citazono.online/live/027548405/675000952/7842d5af-5c1b-4939-913b-499dbac47a02.ts
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND TV RS HD" tvg-logo="https://i.ibb.co/RD2DkLz/HD.png" group-title="Band TV", Band TV RS HD
+http://citazono.online/live/027548405/675000952/1d007a22-e130-4b89-aa2e-1fe316ef49c3.ts
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT TV SP HD" tvg-logo="https://i.ibb.co/ZHtkcwL/HD.png" group-title="SBT TV", SBT TV SP HD
+http://citazono.online/live/027548405/675000952/a7502765-ce38-41b2-9ead-4dc5e838d437.ts
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT TV RJ HD" tvg-logo="https://i.ibb.co/ZHtkcwL/HD.png" group-title="SBT TV", SBT TV RJ HD
+http://citazono.online/live/027548405/675000952/43887e19-f043-44ab-88c6-259571bd2211.ts
+#EXTINF:-1 tvg-id="" tvg-name="SBT NEWS FHD" tvg-logo="https://i.imgur.com/vj91sr0.jpeg" group-title="SBT News", SBT News FHD
+http://citazono.online/live/027548405/675000952/eb833d63-85d9-42a8-9e32-50a06e09e7b1.ts
+#EXTINF:-1 tvg-id="" tvg-name="SBT NEWS FHD [H265]" tvg-logo="https://i.imgur.com/vj91sr0.jpeg" group-title="SBT News", SBT News FHD [H265]
+http://citazono.online/live/027548405/675000952/4bb01a2f-fc60-404f-a39c-64dc6821ac7d.ts
+#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="Telecine Action FHD H265" tvg-logo="https://i.ibb.co/T4qgGz5/tc-action-h265.png" group-title="Canais Telecine", Telecine Action FHD H265
+http://citazono.online/live/027548405/675000952/8956d8af-0307-4f28-a4f5-609043ff9c0d.ts
+#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="Telecine Cult FHD [H265]" tvg-logo="https://i.ibb.co/qjfkK0t/tc-cult-h265.png" group-title="Canais Telecine", Telecine Cult FHD [H265]
+http://citazono.online/live/027548405/675000952/6cd7a4b5-15e7-42c3-8e3b-384f4b86a1f5.ts
+#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="Telecine Fun FHD [H265]" tvg-logo="https://i.ibb.co/Mhk4N2D/tc-fun-h265.png" group-title="Canais Telecine", Telecine Fun FHD [H265]
+http://citazono.online/live/027548405/675000952/57c67f64-d6ee-4634-bfa8-b63c90b72fcf.ts
+#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="Telecine Pipoca FHD [H265]" tvg-logo="https://i.ibb.co/1LBZkPG/tc-pipoca-h265.png" group-title="Canais Telecine", Telecine Pipoca FHD [H265]
+http://citazono.online/live/027548405/675000952/54254f0e-419b-468c-99b2-8008100aa3cf.ts
+#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="Telecine Premium FHD [H265]" tvg-logo="https://i.ibb.co/q071HP4/tc-premium-h265.png" group-title="Canais Telecine", Telecine Premium FHD [H265]
+http://citazono.online/live/027548405/675000952/d4192087-a433-4e5e-8396-b42d5dce4f10.ts
+#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="Telecine Touch FHD [H265]" tvg-logo="https://i.ibb.co/z7ZzTQ4/tc-touch-h265.png" group-title="Canais Telecine", Telecine Touch FHD [H265]
+http://citazono.online/live/027548405/675000952/fa50efcb-148f-48bd-8e5d-97ec6bcc2a09.ts
